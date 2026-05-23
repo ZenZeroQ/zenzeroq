@@ -1,18 +1,16 @@
-&lt;h1 align="center"&gt;¡Hola! Soy ZenZeroQ 👋&lt;/h1&gt;
+<h1 align="center">¡Hola! Soy ZenZeroQ 👋</h1>
 
-&lt;p align="center"&gt;
-  &lt;em&gt;Construyendo proyectos desde cero, aprendiendo paso a paso.&lt;/em&gt;
-&lt;/p&gt;
-
----
+<p align="center">
+  <em>Construyendo proyectos desde cero, aprendiendo paso a paso.</em>
+</p>
 
 ## 🚀 Sobre mí
 
-Soy **ZenZeroQ**, un entusiasta de la tecnología que decidió empezar desde el punto cero para aprender **todo lo posible**.
+Soy **ZenZeroQ**, un aprendiz entusiasta de la tecnología que decidió empezar desde el punto cero para aprender **todo lo posible**.
 
 Actualmente estoy en las bases:
 - 🌱 Aprendiendo **HTML, CSS y JavaScript** (ultra básico, pero con ganas)
-- 🧠 Explorando cómo la **IA** puede ser una compañera de aprendizaje
+- 🧠 Explorando cómo la **IA** puede ser una compañera de aprendizaje y cómo integrarla en proyectos simples y fáciles.
 - 🛠️ Desarrollando **proyectos de cualquier índole** y documentándolos aquí
 
 &gt; *"No importa de dónde partas, importa que empieces."*
@@ -25,7 +23,7 @@ Este espacio es mi bitácora de aprendizaje. Iré subiendo:
 
 - Proyectos prácticos mientras aprendo
 - Experimentos y pruebas de concepto
-- Documentación de mi proceso (errores incluidos 😄)
+- Documentación del proceso (errores incluidos 😄)
 
 ---
 
@@ -41,8 +39,8 @@ Este espacio es mi bitácora de aprendizaje. Iré subiendo:
 
 ¿Querés charlar, colaborar o simplemente compartir el camino de aprender?
 
-- 📧 [Tu email] *(opcional)*
-- 💬 [Otra red que uses] *(opcional)*
+- 📧 [zenzeroq@gmail.com] 
+- 💬 
 
 ---
 
