@@ -44,6 +44,6 @@ Este espacio es mi bitácora de aprendizaje. Iré subiendo:
 
 ---
 
-&lt;p align="center"&gt;
-  &lt;em&gt;Este perfil está en construcción permanente 🚧&lt;/em&gt;
-&lt;/p&gt;
+<p align="center">
+  <em>Perfil en construcción permanente 🚧</em>
+</p>
