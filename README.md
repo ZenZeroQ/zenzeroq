@@ -19,9 +19,9 @@ Actualmente estoy en las bases:
 
 ## 📂 ¿Qué encontrarás aquí?
 
-Este espacio es mi bitácora de aprendizaje. Iré subiendo:
+Este espacio es parte de una bitácora de aprendizaje. Encontrarás:
 
-- Proyectos prácticos mientras aprendo
+- Proyectos prácticos mientras se parte de la teoría
 - Experimentos y pruebas de concepto
 - Documentación del proceso (errores incluidos 😄)
 
@@ -37,9 +37,10 @@ Este espacio es mi bitácora de aprendizaje. Iré subiendo:
 
 ## 📫 Contacto
 
-¿Querés charlar, colaborar o simplemente compartir el camino de aprender?
+¿Quieres hablar, colaborar o simplemente compartir el camino de aprender?
 
-- 📧 [zenzeroq@gmail.com] 
+
+- 📧 [zn.unitas@gmail.com] 
 - 💬 
 
 ---
